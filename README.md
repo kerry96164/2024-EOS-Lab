@@ -2,6 +2,10 @@
 1131 Embedded Operating Systems 嵌入式作業系統 Lab & Homework  
 NYCU EECN30062
 
+## Environment & Equipments
+* Ubuntu 22.04
+* Raspberry Pi 4 Model B
+
 ---
 ## Lab
 ### Lab 1: Setting up your Raspberry Pi
@@ -53,6 +57,3 @@ Signal, Timer, Shared Memory.
 See https://github.com/kerry96164/2024-EOS-FinalProject
 
 
-## Environment & Equipments
-* Ubuntu 22.04
-* Raspberry Pi 4 Model B
